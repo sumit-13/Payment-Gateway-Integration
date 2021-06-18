@@ -7,4 +7,4 @@ The main functioning of this website is that a user will when click on donate fo
 
 After completion of payment , the invoice will be sent to the respective user mail showing all the details of the transaction like Transaction id, Mob No., mail etc.
 
-You are also provided with contact option where you get in touch with the host pf the site by entering some of the basic details. 
+You are also provided with contact option where you get in touch with the host of the site by entering some of the basic details. 
